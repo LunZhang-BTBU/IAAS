@@ -23,7 +23,7 @@ The core of this study is the design of an Image Aesthetic Assessment System (IA
 ![](./Gif/IAAS01.gif)
 
 ## Installation
-Pykan can be installed from GitHub. 
+IAAS can be installed from GitHub. 
 
 **Pre-requisites:**
 
