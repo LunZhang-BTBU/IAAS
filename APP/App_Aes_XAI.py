@@ -151,8 +151,6 @@ class ImageDatasetApp:
         """Kimi API分析实现"""
         # 创建 OpenAI 客户端实例
         client = OpenAI(
-            api_key="sk-xbY97ZgZ1K3A2dQXG2f3hknjpDS1DSjphOnS72Caa8X4R5jX",
-            base_url="https://api.moonshot.cn/v1"
         )
 
         # 图片编码处理
