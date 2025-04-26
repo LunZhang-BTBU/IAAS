@@ -1,3 +1,5 @@
+<img width="600" alt="intro" src="./Gif/fig012.png">
+
 # IAAS: An Application Unlocking Image Aesthetic Evaluation Expertise
 
 ## Authors
@@ -10,7 +12,7 @@
     ·
     <a><strong>Huan Liu</strong></a>
     ·
-    <a><strong>Lun Zhang</strong></a>
+    <a href = "https://github.com/LunZhang-BTBU"><strong>Lun Zhang</strong></a>
   </p>
 
 ## Contact
