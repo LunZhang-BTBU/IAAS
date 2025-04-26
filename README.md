@@ -60,6 +60,11 @@ After activating the virtual environment, you can install specific package requi
 ```python
 pip install -r requirements.txt
 ```   
+
+**Quickstart**
+
+Get started with [App_start.ipynb](./App_start.ipynb) notebook.
+
 ## Acknowledgement
 This code is developed based on [pykan](https://github.com/KindXiaoming/pykan). Part of the code is borrowed from [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam).
 
