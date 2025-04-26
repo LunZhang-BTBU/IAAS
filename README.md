@@ -62,6 +62,7 @@ pip install -r requirements.txt
 ```   
 
 **Quickstart**
+
 you can input your OpenAI api_key in [openai_api_key.txt]( ./APP/openai_api_key.txt) notebook.
 Get started with [App_start.ipynb](./App_start.ipynb) notebook.
 
